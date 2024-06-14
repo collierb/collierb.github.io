@@ -9,7 +9,7 @@ date: 2021-01-06
 I'm probably overreacting but Brexit felt like a big deal to me. At least in terms of the things I'm interested in, Brexit curtails my personal freedoms. Freedoms that I was born with and that I voted to keep. To say I felt backed into a corner is an understatement. So I left. To go to Lisbon. By bike. With my surfboard.
 
 <p align='center'>
-  <img src='/posts/2021-01-06-the-great-escape_files/bordeaux.jpg'/>
+  <img src='/assets/bordeaux.jpg'/>
 </p>
 
 Distinct plans were vague, but as the day of departure drew near, began to take shape. I was due on Ile d'Oleron by 19th July for a much-anticipated family holiday, wanted to visit a fond friend in Gijon and needed to be in Lisbon for a Data Science bootcamp starting in September but in general...
@@ -21,12 +21,12 @@ Distinct plans were vague, but as the day of departure drew near, began to take 
 
 I began to rely heavily on my simple bike computer and the decision to opt for a dynamo to power this and my phone proved invaluable. After the initial doubts and fears, I grew to absolutely love wild camping, and being completely offgrid (apart from the mobile tracking my every move) was the purest feeling of adventure I've ever had.
 
-![](/posts/2021-01-06-the-great-escape_files/dynamo-COLLAGE.jpg)
+![](/assets/dynamo-COLLAGE.jpg)
 
 The map below details my route, as recorded by my bike computer - zig-zagging France to discover national parks and Chateaux, hugging the Spanish coast to avoid the intimidating Picos de Europa and mostly sticking to the Portuguese coast to explore beaches and surf spots in my soon to be adopted country.
 
 <div class="iframe-holder">
-    <iframe src="/posts/2021-01-06-the-great-escape_files/osm.html" loading="lazy"></iframe>
+    <iframe src="/assets/osm.html" loading="lazy"></iframe>
 </div>
 
 ---

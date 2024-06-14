@@ -13,4 +13,6 @@ Biden appears full of vigour (whatever Trump might say) and has hit the ground r
 
 So although the chart below suggests that being a septuagenarian is no impediment to seeking office, at least in the more traditional patriarchies, Joe Biden is still 20 years older than the median age of G8 leaders at appointment to office over the last 50 years and indeed the 50 years before that. And given the evidence in the British Medical Journal report, the fact that Biden has served two terms as vice president, has the eyes and hopes of the world on him now and is already at the average life expectancy age of American males, perhaps the question should not be *is Joe Biden fit for office?* **but** *is office fit for Joe Biden?*
 
-![](/assets/ageBeforeDuty.svg)
+<p align='center'>
+  <img src='/assets/ageBeforeDuty.svg'/>
+</p>
