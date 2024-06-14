@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg6986"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="ageBeforeDuty.svg">
+  <defs
+     id="defs6980">
+    <marker
+       style="overflow:visible;"
+       id="marker1326"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1324" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1316"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10091"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10087"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible;"
+       id="marker9933"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path9931" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9557"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path9555" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9547"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9543"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <rect
+       x="218.42199"
+       y="49.539007"
+       width="4.5035461"
+       height="2.251773"
+       id="rect9525" />
+    <rect
+       x="219.2664"
+       y="49.539007"
+       width="7.3182624"
+       height="2.8147163"
+       id="rect9519" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect8805"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <clipPath
+       id="clip1">
+      <rect
+         x="0"
+         y="0"
+         width="800"
+         height="500"
+         id="rect8517" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <rect
+         x="0"
+         y="0"
+         width="800"
+         height="500"
+         id="rect8520" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <rect
+         x="0"
+         y="0"
+         width="800"
+         height="500"
+         id="rect8523" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <rect
+         x="0"
+         y="0"
+         width="800"
+         height="500"
+         id="rect8526" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <rect
+         x="0"
+         y="0"
+         width="800"
+         height="500"
+         id="rect8529" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <rect
+         x="0"
+         y="0"
+         width="800"
+         height="500"
+         id="rect8532" />
+    </clipPath>
+    <clipPath
+       id="clip7">
+      <rect
+         x="0"
+         y="0"
+         width="800"
+         height="500"
+         id="rect8535" />
+    </clipPath>
+    <clipPath
+       id="clip8">
+      <rect
+         x="0"
+         y="0"
+         width="800"
+         height="500"
+         id="rect8538" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2111" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1246"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1262"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2686"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2684" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1254"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.94"
+     inkscape:cx="638.86765"
+     inkscape:cy="254.03045"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6983">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g8799"
+       transform="matrix(0.3408284,0,0,0.3376881,3.8983781,4.9623453)">
+      <rect
+         width="845"
+         height="571"
+         fill="#ffffff"
+         id="rect8049"
+         x="0"
+         y="0" />
+      <g
+         fill="none"
+         stroke-miterlimit="10"
+         transform="translate(39,34)"
+         id="g8515">
+        <g
+           class="mark-group role-frame root"
+           role="graphics-object"
+           aria-roledescription="group mark container"
+           id="g8513">
+          <g
+             id="g8511">
+            <path
+               class="background"
+               aria-hidden="true"
+               d="m 0.5,0.5 h 800 v 500 H 0.5 Z"
+               stroke="#dddddd"
+               id="path8051" />
+            <g
+               id="g8507">
+              <g
+                 class="mark-group role-axis"
+                 role="graphics-symbol"
+                 aria-roledescription="axis"
+                 aria-label="X-axis for a time scale with values from Thursday, 01 January 1970, 1:00:00 AM to Saturday, 01 January 2022, 12:00:00 AM"
+                 id="g8115">
+                <g
+                   transform="translate(0.5,500.5)"
+                   id="g8113">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 Z"
+                     pointer-events="none"
+                     id="path8053" />
+                  <g
+                     id="g8109">
+                    <g
+                       class="mark-rule role-axis-grid"
+                       pointer-events="none"
+                       id="g8107">
+                      <line
+                         transform="translate(31,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8055"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(62,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8057"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(92,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8059"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(123,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8061"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(154,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8063"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(185,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8065"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(215,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8067"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(246,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8069"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(277,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8071"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(308,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8073"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(338,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8075"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(369,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8077"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(400,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8079"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(431,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8081"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(462,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8083"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(492,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8085"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(523,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8087"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(554,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8089"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(585,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8091"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(615,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8093"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(646,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8095"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(677,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8097"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(708,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8099"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(738,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8101"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(769,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8103"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(800,-500)"
+                         x2="0"
+                         y2="500"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8105"
+                         x1="0"
+                         y1="0" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     pointer-events="none"
+                     display="none"
+                     id="path8111" />
+                </g>
+              </g>
+              <g
+                 class="mark-group role-axis"
+                 role="graphics-symbol"
+                 aria-roledescription="axis"
+                 aria-label="Y-axis for a linear scale with values from 35 to 80"
+                 id="g8147">
+                <g
+                   transform="translate(0.5,0.5)"
+                   id="g8145">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 Z"
+                     pointer-events="none"
+                     id="path8117" />
+                  <g
+                     id="g8141">
+                    <g
+                       class="mark-rule role-axis-grid"
+                       pointer-events="none"
+                       id="g8139">
+                      <line
+                         transform="translate(0,500)"
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8119"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,444)"
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8121"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,389)"
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8123"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,333)"
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8125"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,278)"
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8127"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,222)"
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8129"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,167)"
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8131"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,111)"
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8133"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,56)"
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8135"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         x2="800"
+                         y2="0"
+                         stroke="#dddddd"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8137"
+                         x1="0"
+                         y1="0" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     pointer-events="none"
+                     display="none"
+                     id="path8143" />
+                </g>
+              </g>
+              <g
+                 class="mark-group role-axis"
+                 role="graphics-symbol"
+                 aria-roledescription="axis"
+                 aria-label="X-axis titled 'year' for a time scale with values from Thursday, 01 January 1970, 1:00:00 AM to Saturday, 01 January 2022, 12:00:00 AM"
+                 id="g8273">
+                <g
+                   transform="translate(0.5,500.5)"
+                   id="g8271">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 Z"
+                     pointer-events="none"
+                     id="path8149" />
+                  <g
+                     id="g8267">
+                    <g
+                       class="mark-rule role-axis-tick"
+                       pointer-events="none"
+                       id="g8203">
+                      <line
+                         transform="translate(31)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8151"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(62)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8153"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(92)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8155"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(123)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8157"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(154)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8159"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(185)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8161"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(215)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8163"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(246)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8165"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(277)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8167"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(308)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8169"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(338)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8171"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(369)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8173"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(400)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8175"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(431)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8177"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(462)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8179"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(492)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8181"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(523)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8183"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(554)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8185"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(585)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8187"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(615)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8189"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(646)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8191"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(677)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8193"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(708)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8195"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(738)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8197"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(769)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8199"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(800)"
+                         x2="0"
+                         y2="5"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8201"
+                         x1="0"
+                         y1="0" />
+                    </g>
+                    <g
+                       class="mark-text role-axis-label"
+                       pointer-events="none"
+                       id="g8257">
+                      <text
+                         text-anchor="middle"
+                         transform="translate(30.74817,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8205">1972</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(61.538462,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8207">1974</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(92.286632,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8209">1976</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(123.07692,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8211">1978</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(153.82509,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8213">1980</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(184.61538,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8215">1982</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(215.36355,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8217">1984</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(246.15385,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8219">1986</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(276.90202,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8221">1988</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(307.69231,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8223">1990</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(338.44048,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8225">1992</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(369.23077,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8227">1994</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(399.97894,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8229">1996</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(430.76923,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8231">1998</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(461.5174,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8233">2000</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(492.30769,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8235">2002</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(523.05586,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8237">2004</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(553.84615,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8239">2006</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(584.59432,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8241">2008</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(615.38462,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8243">2010</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(646.13279,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8245">2012</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(676.92308,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8247">2014</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(707.67125,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8249">2016</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(738.46154,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8251">2018</text>
+                      <text
+                         text-anchor="middle"
+                         transform="translate(769.20971,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8253">2020</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(800,15)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="0"
+                         id="text8255">2022</text>
+                    </g>
+                    <g
+                       class="mark-rule role-axis-domain"
+                       pointer-events="none"
+                       id="g8261">
+                      <line
+                         x2="800"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8259"
+                         x1="0"
+                         y1="0" />
+                    </g>
+                    <g
+                       class="mark-text role-axis-title"
+                       pointer-events="none"
+                       id="g8265">
+                      <text
+                         text-anchor="middle"
+                         transform="translate(400,30)"
+                         font-family="sans-serif"
+                         font-size="11px"
+                         font-weight="bold"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8263">year</text>
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     pointer-events="none"
+                     display="none"
+                     id="path8269" />
+                </g>
+              </g>
+              <g
+                 class="mark-group role-axis"
+                 role="graphics-symbol"
+                 aria-roledescription="axis"
+                 aria-label="Y-axis titled 'age' for a linear scale with values from 35 to 80"
+                 id="g8335">
+                <g
+                   transform="translate(0.5,0.5)"
+                   id="g8333">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 Z"
+                     pointer-events="none"
+                     id="path8275" />
+                  <g
+                     id="g8329">
+                    <g
+                       class="mark-rule role-axis-tick"
+                       pointer-events="none"
+                       id="g8297">
+                      <line
+                         transform="translate(0,500)"
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8277"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,444)"
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8279"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,389)"
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8281"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,333)"
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8283"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,278)"
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8285"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,222)"
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8287"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,167)"
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8289"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,111)"
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8291"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         transform="translate(0,56)"
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8293"
+                         x1="0"
+                         y1="0" />
+                      <line
+                         x2="-5"
+                         y2="0"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8295"
+                         x1="0"
+                         y1="0" />
+                    </g>
+                    <g
+                       class="mark-text role-axis-label"
+                       pointer-events="none"
+                       id="g8319">
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,503)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8299">35</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,447.44444)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8301">40</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,391.88889)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8303">45</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,336.33333)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8305">50</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,280.77778)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8307">55</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,225.22222)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8309">60</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,169.66667)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8311">65</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,114.11111)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8313">70</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,58.555556)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8315">75</text>
+                      <text
+                         text-anchor="end"
+                         transform="translate(-7,3)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8317">80</text>
+                    </g>
+                    <g
+                       class="mark-rule role-axis-domain"
+                       pointer-events="none"
+                       id="g8323">
+                      <line
+                         transform="translate(0,500)"
+                         x2="0"
+                         y2="-500"
+                         stroke="#888888"
+                         stroke-width="1"
+                         opacity="1"
+                         id="line8321"
+                         x1="0"
+                         y1="0" />
+                    </g>
+                    <g
+                       class="mark-text role-axis-title"
+                       pointer-events="none"
+                       id="g8327">
+                      <text
+                         text-anchor="middle"
+                         transform="rotate(-90,112.5,137.5)"
+                         font-family="sans-serif"
+                         font-size="11px"
+                         font-weight="bold"
+                         fill="#000000"
+                         opacity="1"
+                         id="text8325">age</text>
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     pointer-events="none"
+                     display="none"
+                     id="path8331" />
+                </g>
+              </g>
+              <g
+                 class="mark-group role-scope layer_0_pathgroup"
+                 role="graphics-object"
+                 aria-roledescription="group mark container"
+                 id="g8373">
+                <g
+                   id="g8347">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 800 V 500 H 0 Z"
+                     id="path8337" />
+                  <g
+                     id="g8343">
+                    <g
+                       class="mark-line role-mark layer_0_marks"
+                       clip-path="url(#clip1)"
+                       role="graphics-symbol"
+                       aria-roledescription="line mark container"
+                       id="g8341">
+                      <path
+                         d="m -292.31822,111.11111 c 0,0 25.65857,-57.407406 30.79029,-22.222221 5.13171,35.185181 -2.56235,185.185181 0,233.333331 2.56235,48.14815 12.81174,59.25926 15.37408,55.55556 2.56235,-3.70371 -2.56234,-44.44445 0,-77.77778 2.56235,-33.33333 7.68003,-90.74074 15.37409,-122.22222 7.69406,-31.48148 23.09623,-92.592595 30.79029,-66.66667 7.69406,25.92593 10.24939,218.51852 15.37409,222.22222 5.12469,3.70371 10.24939,-183.33333 15.37408,-200 5.1247,-16.66666 12.81174,70.37037 15.37409,100 2.56234,29.62963 -5.13172,68.51852 0,77.77778 5.13171,9.25926 23.09622,-16.66667 30.79029,-22.22222 7.69406,-5.55556 12.81173,-24.07408 15.37408,-11.11111 2.56235,12.96296 -2.56235,75.92592 0,88.88889 2.56235,12.96296 7.68002,-5.55556 15.374087,-11.11111 7.694063,-5.55556 20.533881,0 30.790291,-22.22223 10.256411,-22.22222 25.623476,-105.55555 30.748171,-111.11111 5.124695,-5.55555 -2.569075,66.66667 0,77.77778 2.569075,11.11111 10.283028,-7.40741 15.414451,-11.11111 5.131422,-3.7037 12.8117374,-18.51852 15.37408497,-11.11111 2.56234753,7.40741 -5.12498757,51.85185 0,55.55555 C 5.1232325,337.03704 25.623183,305.55556 30.74817,300 c 5.124988,-5.55556 -2.569367,9.25926 0,0 2.569368,-9.25926 10.284491,-44.44444 15.416206,-55.55556 5.131716,-11.11111 12.811738,-11.11111 15.374086,-11.11111 2.562347,0 -5.124696,12.96297 0,11.11111 5.124695,-1.85185 25.623475,-24.07407 30.74817,-22.22222 5.124695,1.85185 -5.131715,31.48148 0,33.33334 5.131715,1.85185 23.096228,-16.66667 30.790288,-22.22223 7.69407,-5.55555 12.81174,-25.92592 15.37409,-11.11111 2.56235,14.81482 -2.56235,85.18519 0,100 2.56235,14.81482 12.81174,-3.7037 15.37408,-11.11111 2.56235,-7.40741 -2.56936,-25.92592 0,-33.33333 2.56937,-7.40741 10.28449,-7.40741 15.41621,-11.11111 5.13171,-3.70371 12.81174,22.22222 15.37408,-11.11111 2.56235,-33.33334 -2.56234,-203.703708 0,-188.888893 2.56235,14.814814 5.11768,237.037033 15.37409,277.777773 10.25641,40.74075 35.90797,22.22223 46.16438,-33.33333 10.25641,-55.55555 12.81173,-314.8148137 15.37408,-299.999999 2.56235,14.814815 -2.56235,353.703699 0,388.888889 2.56235,35.18519 10.24237,-129.62963 15.37409,-177.77778 5.13171,-48.14815 7.72214,-88.88889 15.4162,-111.11111 7.69407,-22.222221 23.06113,-51.851851 30.74817,-22.222221 7.68705,29.629631 10.24237,201.851851 15.37409,200.000001 5.13171,-1.85185 10.28449,-203.703705 15.4162,-211.111112 5.13172,-7.407408 10.24939,150.000002 15.37409,166.666662 5.12469,16.66667 10.24939,-68.51851 15.37408,-66.66666 5.1247,1.85185 7.68003,50 15.37409,77.77778 7.69406,27.77777 23.09623,75.92592 30.79029,88.88888 7.69406,12.96297 10.24939,12.96297 15.37409,-11.11111 C 451.26801,309.25926 456.38569,227.77778 461.5174,200 c 5.13172,-27.77778 2.59043,-20.37037 15.41621,-33.33333 12.82578,-12.96297 48.7197,-40.74074 61.53846,-44.44445 12.81876,-3.7037 7.68704,27.77778 15.37408,22.22222 7.68705,-5.55555 17.92942,-53.703699 30.74817,-55.555551 12.81876,-1.851852 33.3386,-1.851852 46.16438,44.444441 12.82578,46.2963 23.09623,179.62963 30.79029,233.33334 7.69406,53.7037 7.68704,116.66666 15.37409,88.88889 7.68704,-27.77778 20.49176,-227.77778 30.74817,-255.55556 10.25641,-27.77778 23.09623,75.92593 30.79029,88.88889 7.69406,12.96296 7.68002,-7.40741 15.37408,-11.11111 7.69407,-3.70371 30.79029,-11.11111 30.79029,-11.11111"
+                         stroke="#8abbd0"
+                         stroke-width="2"
+                         id="path8339" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     display="none"
+                     id="path8345" />
+                </g>
+                <g
+                   id="g8359">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 800 V 500 H 0 Z"
+                     id="path8349" />
+                  <g
+                     id="g8355">
+                    <g
+                       class="mark-line role-mark layer_0_marks"
+                       clip-path="url(#clip2)"
+                       role="graphics-symbol"
+                       aria-roledescription="line mark container"
+                       id="g8353">
+                      <path
+                         d="m -246.15385,100 c 0,0 23.05411,-29.62963 30.74817,-11.111111 7.69407,18.518521 5.1598,101.851851 15.41621,122.222221 10.25641,20.37037 28.1788,3.7037 46.12226,0 17.94345,-3.7037 30.76923,-35.18518 61.538457,-22.22222 30.769231,12.96296 97.4323877,107.40741 123.076923,100 25.644536,-7.40741 20.533881,-112.96296 30.790292,-144.44445 10.25641,-31.48148 20.49176,-42.59259 30.74817,-44.44444 10.256408,-1.851852 20.533878,29.62963 30.790288,33.33333 10.25641,3.70371 20.49176,-18.51852 30.74817,-11.11111 10.25641,7.40741 12.83982,44.44445 30.79029,55.55556 17.95048,11.11111 58.96208,16.66666 76.91255,11.11111 17.95047,-5.55556 25.65858,-53.7037 30.79029,-44.44445 5.13172,9.25926 -5.12469,109.25926 0,100 5.1247,-9.25925 20.49176,-161.111107 30.74817,-155.555551 10.25641,5.555555 23.09623,164.814811 30.79029,188.888891 7.69407,24.07407 12.81174,-16.66667 15.37409,-44.44445 2.56235,-27.77777 -5.1247,-122.22222 0,-122.22222 5.12469,0 20.49176,105.55556 30.74817,122.22222 10.25641,16.66667 20.53388,-14.81481 30.79029,-22.22222 10.25641,-7.40741 23.05411,-25.92592 30.74817,-22.22222 7.69406,3.7037 0.0281,24.07407 15.41621,44.44444 15.38812,20.37037 61.53144,100 76.91254,77.77778 C 569.22726,288.88889 564.09554,129.62963 569.22024,100 c 5.12469,-29.62963 10.24237,16.66667 15.37408,33.33333 5.13172,16.66667 10.2845,59.25926 15.41621,66.66667 5.13172,7.40741 10.24939,-37.03704 15.37409,-22.22222 5.12469,14.81481 -10.26344,124.07407 15.37408,111.11111 C 656.39622,275.92593 743.56517,133.33333 769.20971,100 c 25.64453,-33.333333 15.4162,-11.111111 15.4162,-11.111111"
+                         stroke="#9ae5de"
+                         stroke-width="2"
+                         id="path8351" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     display="none"
+                     id="path8357" />
+                </g>
+                <g
+                   id="g8371">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 800 V 500 H 0 Z"
+                     id="path8361" />
+                  <g
+                     id="g8367">
+                    <g
+                       class="mark-line role-mark layer_0_marks"
+                       clip-path="url(#clip3)"
+                       role="graphics-symbol"
+                       aria-roledescription="line mark container"
+                       id="g8365">
+                      <path
+                         d="m -261.52793,200 c 0,0 97.43941,198.14815 123.07692,211.11111 25.63752,12.96296 10.23564,-109.25926 30.74817,-133.33333 20.51253,-24.07408 64.120117,0 92.327,-11.11111 28.206883,-11.11111 56.401189,-62.96297 76.914302,-55.55556 20.513113,7.40741 28.213903,114.81482 46.164378,100 17.95047,-14.81481 30.76923,-166.66667 61.53846,-188.88889 30.76923,-22.22222 92.30769,12.96297 123.07692,55.55556 30.76923,42.59259 30.76923,181.48148 61.53846,200 30.76923,18.51852 82.05129,-87.03704 123.07693,-88.88889 41.02564,-1.85185 82.05128,107.40741 123.07692,77.77778 41.02564,-29.62963 92.30769,-198.14815 123.07692,-255.55556 30.76923,-57.407406 61.53846,-88.888888 61.53846,-88.888888"
+                         stroke="#8b0000"
+                         stroke-width="2"
+                         id="path8363" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     display="none"
+                     id="path8369" />
+                </g>
+              </g>
+              <g
+                 class="mark-group role-scope layer_1_pathgroup"
+                 role="graphics-object"
+                 aria-roledescription="group mark container"
+                 id="g8435">
+                <g
+                   id="g8385">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 800 V 500 H 0 Z"
+                     id="path8375" />
+                  <g
+                     id="g8381">
+                    <g
+                       class="mark-line role-mark layer_1_marks"
+                       clip-path="url(#clip4)"
+                       role="graphics-symbol"
+                       aria-roledescription="line mark container"
+                       id="g8379">
+                      <path
+                         d="m -199.98947,200 c 0,0 64.08677,-68.51852 92.28663,-44.44444 28.199865,24.07407 35.886908,140.74074 76.912549,188.88888 41.025641,48.14815 128.215658,111.11112 169.241301,100 41.02564,-11.11111 64.09379,-157.4074 76.91254,-166.66666 12.81876,-9.25926 -23.08218,94.44444 0,111.11111 23.08219,16.66667 115.41095,14.81481 138.49313,-11.11111 23.08219,-25.92593 -25.63751,-109.25926 0,-144.44445 25.63752,-35.18518 120.49352,-88.88889 153.8251,-66.66666 33.33158,22.22222 15.39514,161.11111 46.16437,200 30.76923,38.88889 99.98772,37.03703 138.45101,33.33333 38.4633,-3.7037 92.32875,-55.55556 92.32875,-55.55556"
+                         stroke="#244747"
+                         stroke-width="1"
+                         opacity="0.5"
+                         id="path8377" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     display="none"
+                     id="path8383" />
+                </g>
+                <g
+                   id="g8397">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 800 V 500 H 0 Z"
+                     id="path8387" />
+                  <g
+                     id="g8393">
+                    <g
+                       class="mark-line role-mark layer_1_marks"
+                       clip-path="url(#clip5)"
+                       role="graphics-symbol"
+                       aria-roledescription="line mark container"
+                       id="g8391">
+                      <path
+                         d="m -246.15385,88.888889 c 0,0 38.44955,11.111111 76.91255,33.333331 38.463,22.22222 128.221217,79.62963 153.86546,100 25.644243,20.37037 -12.819051,0 0,22.22222 12.8190501,22.22223 46.144778,124.07408 76.914302,111.11112 C 92.307985,342.59259 115.3969,194.44444 169.2413,166.66667 c 53.8444,-27.77778 148.7004,-1.85186 215.36355,22.22222 66.66316,24.07407 141.0274,112.96296 184.61539,122.22222 43.58799,9.25926 51.26801,-88.88889 76.91255,-66.66667 25.64453,22.22223 53.87248,172.22223 76.95466,200 23.08219,27.77778 61.53846,-33.33333 61.53846,-33.33333"
+                         stroke="#acc8d4"
+                         stroke-width="1"
+                         opacity="0.5"
+                         id="path8389" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     display="none"
+                     id="path8395" />
+                </g>
+                <g
+                   id="g8409">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 800 V 500 H 0 Z"
+                     id="path8399" />
+                  <g
+                     id="g8405">
+                    <g
+                       class="mark-line role-mark layer_1_marks"
+                       clip-path="url(#clip6)"
+                       role="graphics-symbol"
+                       aria-roledescription="line mark container"
+                       id="g8403">
+                      <path
+                         d="m -107.70284,155.55556 c 0,0 30.776546,25.92592 46.164378,44.44444 15.387833,18.51852 25.649801,53.7037 46.162622,66.66667 20.5128203,12.96296 64.095251,11.11111 76.914302,11.11111 12.81905,0 -20.512821,-16.66667 0,-11.11111 20.51282,5.55555 61.538458,40.74074 123.076918,44.44444 61.53847,3.7037 187.17774,-24.07407 246.15385,-22.22222 58.97611,1.85185 48.72672,55.55555 107.70284,33.33333 C 597.44818,300 784.62591,155.55556 784.62591,155.55556"
+                         stroke="#efe8d1"
+                         stroke-width="1"
+                         opacity="0.5"
+                         id="path8401" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     display="none"
+                     id="path8407" />
+                </g>
+                <g
+                   id="g8421">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 800 V 500 H 0 Z"
+                     id="path8411" />
+                  <g
+                     id="g8417">
+                    <g
+                       class="mark-line role-mark layer_1_marks"
+                       clip-path="url(#clip7)"
+                       role="graphics-symbol"
+                       aria-roledescription="line mark container"
+                       id="g8415">
+                      <path
+                         d="m -169.2413,244.44444 c 0,0 -7.69406,-5.55555 0,-11.11111 7.69406,-5.55555 28.2139,-9.25926 46.16438,-22.22222 17.95047,-12.96296 51.282048,-57.40741 61.538458,-55.55555 10.256411,1.85185 -48.719708,62.96296 0,66.66666 48.719704,3.70371 235.911472,-40.74074 292.318222,-44.44444 56.40675,-3.70371 33.3035,12.96296 46.12226,22.22222 12.81875,9.25926 25.65857,27.77778 30.79029,33.33333 5.13171,5.55556 -2.56235,1.85186 0,0 2.56235,-1.85185 -7.70109,-33.33333 15.37408,-11.11111 23.07517,22.22222 100.00176,122.22222 123.07693,144.44445 23.07516,22.22222 -7.70109,-18.51852 15.37408,-11.11111 23.07517,7.4074 92.30769,77.77777 123.07692,55.55555 30.76923,-22.22222 28.19987,-142.59259 61.53847,-188.88889 33.33859,-46.29629 138.49312,-88.88889 138.49312,-88.88889"
+                         stroke="#336666"
+                         stroke-width="1"
+                         opacity="0.5"
+                         id="path8413" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     display="none"
+                     id="path8419" />
+                </g>
+                <g
+                   id="g8433">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 800 V 500 H 0 Z"
+                     id="path8423" />
+                  <g
+                     id="g8429">
+                    <g
+                       class="mark-line role-mark layer_1_marks"
+                       clip-path="url(#clip8)"
+                       role="graphics-symbol"
+                       aria-roledescription="line mark container"
+                       id="g8427">
+                      <path
+                         d="m -292.31822,33.333333 c 0,0 46.15033,185.185187 61.53846,211.111107 15.38812,25.92593 10.27747,-51.85185 30.79029,-55.55555 20.51282,-3.7037 74.34318,5.55555 92.28663,33.33333 17.943455,27.77778 -2.57609,122.22222 15.374087,133.33334 17.950181,11.11111 61.557767,-37.03704 92.32699797,-66.66667 C 30.767476,259.25926 69.211171,177.77778 92.286632,177.77778 c 23.075458,0 10.263428,79.62963 46.164378,111.11111 35.90094,31.48148 123.08394,59.25926 169.2413,77.77778 46.15735,18.51852 64.11485,50 107.70284,33.33333 43.58798,-16.66667 120.49351,-133.33333 153.82509,-133.33333 33.33158,0 23.08921,140.74074 46.16438,133.33333 23.07516,-7.40741 69.21146,-157.40741 92.28663,-177.77778 23.07517,-20.37037 33.3386,48.14815 46.16437,55.55556 12.82578,7.40741 30.79029,-11.11111 30.79029,-11.11111"
+                         stroke="#91b8bd"
+                         stroke-width="1"
+                         opacity="0.5"
+                         id="path8425" />
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     display="none"
+                     id="path8431" />
+                </g>
+              </g>
+              <g
+                 class="mark-group role-legend"
+                 role="graphics-symbol"
+                 aria-roledescription="legend"
+                 aria-label="Symbol legend for stroke color with 3 values: Italy, Japan, US"
+                 id="g8505">
+                <g
+                   transform="translate(0,-29)"
+                   id="g8503">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 133 V 11 H 0 Z"
+                     pointer-events="none"
+                     id="path8437" />
+                  <g
+                     id="g8499">
+                    <g
+                       class="mark-group role-legend-entry"
+                       id="g8497">
+                      <g
+                         id="g8495">
+                        <path
+                           class="background"
+                           aria-hidden="true"
+                           d="M 0,0 Z"
+                           pointer-events="none"
+                           id="path8439" />
+                        <g
+                           id="g8491">
+                          <g
+                             class="mark-group role-scope"
+                             role="graphics-object"
+                             aria-roledescription="group mark container"
+                             id="g8489">
+                            <g
+                               id="g8455">
+                              <path
+                                 class="background"
+                                 aria-hidden="true"
+                                 d="M 0,0 H 36 V 11 H 0 Z"
+                                 pointer-events="none"
+                                 opacity="1"
+                                 id="path8441" />
+                              <g
+                                 id="g8451">
+                                <g
+                                   class="mark-symbol role-legend-symbol"
+                                   pointer-events="none"
+                                   id="g8445">
+                                <path
+                                   transform="translate(6,6)"
+                                   d="M -5,0 H 5"
+                                   stroke="#8abbd0"
+                                   stroke-width="1.5"
+                                   opacity="1"
+                                   id="path8443" />
+                                </g>
+                                <g
+                                   class="mark-text role-legend-label"
+                                   pointer-events="none"
+                                   id="g8449">
+                                <text
+                                   text-anchor="start"
+                                   transform="translate(16,9)"
+                                   font-family="sans-serif"
+                                   font-size="10px"
+                                   fill="#000000"
+                                   opacity="1"
+                                   id="text8447">Italy</text>
+                                </g>
+                              </g>
+                              <path
+                                 class="foreground"
+                                 aria-hidden="true"
+                                 d=""
+                                 pointer-events="none"
+                                 display="none"
+                                 id="path8453" />
+                            </g>
+                            <g
+                               transform="translate(47)"
+                               id="g8471">
+                              <path
+                                 class="background"
+                                 aria-hidden="true"
+                                 d="M 0,0 H 45 V 11 H 0 Z"
+                                 pointer-events="none"
+                                 opacity="1"
+                                 id="path8457" />
+                              <g
+                                 id="g8467">
+                                <g
+                                   class="mark-symbol role-legend-symbol"
+                                   pointer-events="none"
+                                   id="g8461">
+                                <path
+                                   transform="translate(6,6)"
+                                   d="M -5,0 H 5"
+                                   stroke="#9ae5de"
+                                   stroke-width="1.5"
+                                   opacity="1"
+                                   id="path8459" />
+                                </g>
+                                <g
+                                   class="mark-text role-legend-label"
+                                   pointer-events="none"
+                                   id="g8465">
+                                <text
+                                   text-anchor="start"
+                                   transform="translate(16,9)"
+                                   font-family="sans-serif"
+                                   font-size="10px"
+                                   fill="#000000"
+                                   opacity="1"
+                                   id="text8463">Japan</text>
+                                </g>
+                              </g>
+                              <path
+                                 class="foreground"
+                                 aria-hidden="true"
+                                 d=""
+                                 pointer-events="none"
+                                 display="none"
+                                 id="path8469" />
+                            </g>
+                            <g
+                               transform="translate(103)"
+                               id="g8487">
+                              <path
+                                 class="background"
+                                 aria-hidden="true"
+                                 d="M 0,0 H 30 V 11 H 0 Z"
+                                 pointer-events="none"
+                                 opacity="1"
+                                 id="path8473" />
+                              <g
+                                 id="g8483">
+                                <g
+                                   class="mark-symbol role-legend-symbol"
+                                   pointer-events="none"
+                                   id="g8477">
+                                <path
+                                   transform="translate(6,6)"
+                                   d="M -5,0 H 5"
+                                   stroke="#8b0000"
+                                   stroke-width="1.5"
+                                   opacity="1"
+                                   id="path8475" />
+                                </g>
+                                <g
+                                   class="mark-text role-legend-label"
+                                   pointer-events="none"
+                                   id="g8481">
+                                <text
+                                   text-anchor="start"
+                                   transform="translate(16,9)"
+                                   font-family="sans-serif"
+                                   font-size="10px"
+                                   fill="#000000"
+                                   opacity="1"
+                                   id="text8479">US</text>
+                                </g>
+                              </g>
+                              <path
+                                 class="foreground"
+                                 aria-hidden="true"
+                                 d=""
+                                 pointer-events="none"
+                                 display="none"
+                                 id="path8485" />
+                            </g>
+                          </g>
+                        </g>
+                        <path
+                           class="foreground"
+                           aria-hidden="true"
+                           d=""
+                           pointer-events="none"
+                           display="none"
+                           id="path8493" />
+                      </g>
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     pointer-events="none"
+                     display="none"
+                     id="path8501" />
+                </g>
+              </g>
+            </g>
+            <path
+               class="foreground"
+               aria-hidden="true"
+               d=""
+               display="none"
+               id="path8509" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';stroke-width:0.264583"
+       x="7.5066805"
+       y="204.26466"
+       id="text2866"><tspan
+         sodipodi:role="line"
+         id="tspan2864"
+         x="7.5066805"
+         y="204.26466"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';stroke-width:0.264583">Source: Wikipedia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';stroke-width:0.264583"
+       x="139.18915"
+       y="21.28734"
+       id="text2816"><tspan
+         sodipodi:role="line"
+         id="tspan2814"
+         x="139.18915"
+         y="21.28734"
+         style="font-size:4.93889px;stroke-width:0.264583">Amintore Fanfani, </tspan><tspan
+         sodipodi:role="line"
+         x="139.18915"
+         y="27.460951"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan2820">Italy PM 1987, </tspan><tspan
+         sodipodi:role="line"
+         x="139.18915"
+         y="33.634567"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan2824">Age: 79</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"
+       d="m 108.49234,20.296678 c 7.2496,0 14.49889,0 19.3922,0.988969 4.8933,0.988969 7.43051,2.966589 9.96744,4.943996"
+       id="path1244"
+       inkscape:path-effect="#path-effect1246"
+       inkscape:original-d="m 108.49234,20.296678 c 7.2496,2.59e-4 14.49889,2.59e-4 21.74789,0 2.5376,1.977954 5.07481,3.955569 7.61175,5.932965" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';stroke-width:0.264583"
+       x="231.2242"
+       y="14.531498"
+       id="text2828"><tspan
+         sodipodi:role="line"
+         id="tspan2826"
+         x="231.2242"
+         y="14.531498"
+         style="font-size:4.93889px;stroke-width:0.264583">Joe Biden, </tspan><tspan
+         sodipodi:role="line"
+         x="231.2242"
+         y="20.705111"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan2830">US President 2021, </tspan><tspan
+         sodipodi:role="line"
+         x="231.2242"
+         y="26.878723"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan2832">Age: 78</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2686)"
+       d="m 277.38208,50.19815 c -4.79287,2.875247 -9.58589,5.750582 -12.97656,6.540696 -3.39067,0.790114 -5.37908,-0.505232 -7.36785,-1.800813"
+       id="path1252"
+       inkscape:path-effect="#path-effect1254"
+       inkscape:original-d="m 277.38208,50.19815 c -4.7927,2.875531 -9.58572,5.750861 -14.37905,8.626004 -1.98817,-1.295205 -3.97658,-2.590553 -5.96536,-3.886121"
+       inkscape:transform-center-x="0.75112002"
+       inkscape:transform-center-y="-0.4534572" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';stroke-width:0.264583"
+       x="228.48145"
+       y="44.086018"
+       id="text2836"><tspan
+         sodipodi:role="line"
+         x="228.48145"
+         y="44.086018"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan2838">Yoshihide Suga, </tspan><tspan
+         sodipodi:role="line"
+         x="228.48145"
+         y="50.259628"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan2842">Japan PM 2020, </tspan><tspan
+         sodipodi:role="line"
+         x="228.48145"
+         y="56.433243"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan2844">    Age: 71</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';stroke-width:0.264583"
+       x="154.80936"
+       y="165.22386"
+       id="text9515"><tspan
+         sodipodi:role="line"
+         id="tspan9513"
+         x="154.80936"
+         y="165.22386"
+         style="font-size:4.93889px;stroke-width:0.264583">Other G8 countries</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text9517"
+       style="line-height:1.25;font-family:Georgia;font-size:2.11666667px;-inkscape-font-specification:'Georgia, Normal';white-space:pre;shape-inside:url(#rect9519);" />
+    <text
+       xml:space="preserve"
+       id="text9523"
+       style="line-height:1.25;font-family:Georgia;font-size:2.11666667px;-inkscape-font-specification:'Georgia, Normal';white-space:pre;shape-inside:url(#rect9525);" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9933)"
+       d="m 197.31161,164.37943 c 4.59762,-0.37532 9.19498,-0.75061 11.82191,-1.78261 2.62692,-1.032 3.28368,-2.72079 3.9405,-4.40976"
+       id="path9541"
+       inkscape:path-effect="#path-effect9543"
+       inkscape:original-d="m 197.31161,164.37943 c 4.59764,-0.37503 9.195,-0.75033 13.79211,-1.12589 0.65705,-1.68859 1.3138,-3.37739 1.9703,-5.06648" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker9557)"
+       d="m 151.71321,154.52792 c -0.93827,1.21975 -1.87651,2.43946 -1.40721,3.80002 0.4693,1.36056 2.34573,2.86171 4.22192,4.36266"
+       id="path10089"
+       inkscape:path-effect="#path-effect10091"
+       inkscape:original-d="m 151.71321,154.52792 c -0.93798,1.21998 -1.87622,2.43969 -2.81472,3.65913 1.87678,1.50148 3.75322,3.00263 5.62943,4.50355" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1326);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 259.23537,13.510638 c 5.06673,-0.375313 10.13322,-0.750609 13.93311,0.56311 3.79989,1.313718 6.33308,4.316026 8.86608,7.318096"
+       id="path1314"
+       inkscape:path-effect="#path-effect1316"
+       inkscape:original-d="m 259.23537,13.510638 c 5.06675,-0.375031 10.13324,-0.750326 15.19946,-1.125886 2.53357,3.002688 5.06677,6.004992 7.59973,9.007092" />
+  </g>
+</svg>

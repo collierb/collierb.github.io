@@ -1,11 +1,8 @@
 ---
-title: Ain't No Sunshine
-author: ''
-date: '2020-04-04'
-slug: no-sunshine
-tags:
-  - larger data
-summary: 'I thought to shoehorn this in...'
+layout: post
+title: "Ain't No Sunshine"
+excerpt: "I thought to shoehorn this in..."
+date: 2020-04-04
 ---
 
 I thought I'd shoehorn this in...
