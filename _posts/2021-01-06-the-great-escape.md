@@ -21,12 +21,12 @@ Distinct plans were vague, but as the day of departure drew near, began to take 
 
 I began to rely heavily on my simple bike computer and the decision to opt for a dynamo to power this and my phone proved invaluable. After the initial doubts and fears, I grew to absolutely love wild camping, and being completely offgrid (apart from the mobile tracking my every move) was the purest feeling of adventure I've ever had.
 
-![](/assets/dynamo-COLLAGE.jpg)
+![](/assets/dynamo-collage.jpg)
 
 The map below details my route, as recorded by my bike computer - zig-zagging France to discover national parks and Chateaux, hugging the Spanish coast to avoid the intimidating Picos de Europa and mostly sticking to the Portuguese coast to explore beaches and surf spots in my soon to be adopted country.
 
 <div class="iframe-holder">
-    <iframe src="/assets/osm.html" loading="lazy"></iframe>
+    <iframe src="/assets/osm.html" loading="lazy" frameborder="0" height="500" width="100%"></iframe>
 </div>
 
 ---
