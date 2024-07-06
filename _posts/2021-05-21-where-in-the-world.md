@@ -10,7 +10,7 @@ I imagine there's been a resurgence of boardgame playing in the last year or so.
 One common data visualisation technique in the vast and bewildering field of geospatial analysis is to forsake the need for a base map and forget fiddling around with what projection you might need and simply plot a load of data points given their longitude and latitude - the more the better.
 
 <p align='center'>
-  <img src='/assets/yt.jpg' height="400"/>
+  <img src='/assets/yt.jpg' height="400" width=100%/>
 </p>
 
 I know the above stretch of coast like the back of my hand and I'm beginning to get to know the stretch of coast that is my current home. And I'm pretty confident that if someone plotted thousands of points in either coastal west Wales or coastal central Portugal, I'd have a decent chance of identifying the location. But I'm not so sure I could do so for other locations I don't know so well.
@@ -20,12 +20,8 @@ I am, though, reasonably confident that my brother could do so, given some clues
 *  Clue 1: As the data is sourced from [http://insideairbnb.com/](http://insideairbnb.com/) (a terrific resource asking some important questions) they are all popular holiday destinations
 *  Clue 2: My brother has been to all four (which doesn't help those that don't know him intimately)
 
-<p align='center'>
-  <img src='/assets/lb.png' height="400"/>
-</p>
+![](/assets/lb.png)
 
-<p align='center'>
-  <img src='/assets/ir.png' height="400"/>
-</p>
+![](/assets/ir.png)
 
 Answers on a postcard!
